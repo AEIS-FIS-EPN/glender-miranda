@@ -64,16 +64,16 @@ This project is licensed under the [insert license here].
 
 [Insert test cases here]
 
-## FAQ
+#### FAQ
 
-#### Can I clone this repository?
+##### Can I clone this repository?
 
 Yes, use:
 ```bash
 git clone https://github.com/AEIS-FIS-EPN/glender-miranda-portfolio.git
 ```
 
-#### Can I get contact with you? How?
+##### Can I get contact with you? How?
 
 Yes, you can send me a mail: glender.miranda@epn.edu.ec
 
