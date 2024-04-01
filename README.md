@@ -23,7 +23,9 @@
 This project relies on the following dependencies:
 
 - React.js
-- [Add more dependencies here]
+- pnpm
+- Husky
+- esLint
 
 #### Dependencies Installation
 
@@ -67,8 +69,8 @@ This project is licensed under the MIT License.
 #### Changelog
 
 **Version history:**
-*0.0.0*
-- Added main page for my portfolio
+- *0.0.0*
+Added main page for my portfolio
 
 #### Test Cases
 
