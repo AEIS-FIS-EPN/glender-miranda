@@ -26,6 +26,7 @@ This project relies on the following dependencies:
 - pnpm
 - Husky
 - esLint
+- Bootstrap
 
 #### Dependencies Installation
 
