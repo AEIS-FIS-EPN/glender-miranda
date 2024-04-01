@@ -69,7 +69,8 @@ This project is licensed under the MIT License.
 #### Changelog
 
 **Version history:**
-- *0.0.0*
+- **0.0.0**
+
 Added main page for my portfolio
 
 #### Test Cases
