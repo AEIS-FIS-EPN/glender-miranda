@@ -15,6 +15,7 @@
 - [Community](#community)
 - [Changelog](#changelog)
 - [Test Cases](#test-cases)
+- [FAQ](#faq)
 - [How to Report an Error](#how-to-report-an-error)
 
 #### Dependencies
