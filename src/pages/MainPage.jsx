@@ -1,4 +1,3 @@
-import React from 'react';
 
 const MainPage = () => {
   return (
@@ -10,7 +9,7 @@ const MainPage = () => {
         <div className="col-md-8">
           <h1>Glender Miranda</h1>
           <p>
-            Hi there 👋 I'm Glender Miranda
+            Hi there 👋 I&lsquo;m Glender Miranda
           </p>
           <ul>
             <li>🔭 I’m currently working on projects related to the REACT library.</li>
